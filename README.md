@@ -6,7 +6,7 @@ This repository contains template documents for people working in machine vision
 These documents are intended to save you time, trouble, effort, and money. If you would like to sells dozens, hundreds, or thousands of industrial vision systems for a specific use case, then you may find these documents useful as you navigate the early stages of product development.
 
 ## "Machine" Vision? Not Computer Vision?
-Machine vision is the application of digital image processing to industrial automation and lab automation. You could also think of "machine vision" as "computer vision" for factories: cameras + computers + software + digital communications + (etc.) to make measurements and decisions based on image data of products in production. 
+Machine vision is the application of digital image processing to industrial automation and lab automation. You could also think of "machine vision" as "computer vision" for factories: cameras + computers + software + digital communications + (etc.). A machine vision system captures images, makes measurements and/or decisions, and then outputs the data to another system such as a [programmable logic controller (PLC)](https://en.wikipedia.org/wiki/Programmable_logic_controller).
 
 If your vision system connects to a PLC, rotary encoder, conveyor built, production line, CMM, 6- or 7-axis industrial arm robot, pick and place robot, gantry robot, warehouse management system, or the like, then you should be aware that there is a half century (arguably, a century) of similar vision systems being lumped into the category of "machine vision." For at least some searches, try including the term "machine vision" in place of the term "computer vision."
 
